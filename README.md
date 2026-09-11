@@ -1,4 +1,4 @@
-﻿# Softhian SEO Desktop Engine v2.9.1
+# Softhian SEO Desktop Engine v2.9.1
 
 > **Aplicación de escritorio nativa (Windows), en modo oscuro y 100% gratuita**, que combina las capacidades de **Screaming Frog** con auditoría de **SEO Local (GEO)**, optimización para **Motores de IA (AIO/GEO/LLMO)** y análisis técnico de arquitectura para sitios de hasta **50.000+ URLs**.
 
@@ -15,6 +15,8 @@ Descarga, doble clic y listo. No requiere permisos de Administrador ni UAC. Inst
 ### 📦 Opción 2: Paquete Portable (.ZIP)
 Para quienes prefieren no instalar nada. Solo descomprime la carpeta y haz doble clic en el .exe.
 👉 **[Descargar Portable (.ZIP)](https://github.com/cristhiancortes/Softhian-SEO-Desktop/releases/download/v2.9.1/SofthianSEODesktop-2.9.1-portable.zip)** *(261 MB)*
+
+> 🍏 **macOS y 🐧 Linux**: ¡En desarrollo activo! El motor ya se está compilando para Apple Silicon (M1/M2/M3/M4) e Intel en nuestros pipelines de GitHub Actions. Próximamente disponible el instalador `.dmg`.
 
 ---
 
